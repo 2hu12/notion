@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["is_dependency",""],["is_node_modules",""],["is_node_root",""],["is_project_root",""]],"struct":[["DepPackageReadError",""],["LazyDependentBins",""],["NoPinnedNodeVersion","Thrown when a user tries to pin a Yarn version before pinning a Node version."],["Project","A Node project tree in the filesystem."]]});

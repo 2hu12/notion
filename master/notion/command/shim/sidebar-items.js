@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_Args",""]],"enum":[["Shim",""],["ShimKind",""]],"fn":[["create",""],["delete",""],["is_node_version_installed",""],["list",""],["print_file_info",""],["resolve_3p_shims",""],["resolve_node_shims",""],["resolve_npx_shims",""],["resolve_shim",""],["resolve_yarn_shims",""]],"struct":[["Args",""]]});

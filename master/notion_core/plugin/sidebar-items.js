@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["LsRemote","A plugin listing the available versions of Node."],["Publish","A plugin for publishing Notion events."],["ResolvePlugin","A Node version resolution plugin."],["ResolveResponse","A response from the Node version resolution plugin."]],"mod":[["serial",""]],"struct":[["InvalidCommandError",""]]});

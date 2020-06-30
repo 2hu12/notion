@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["serial",""]],"struct":[["Manifest","A Node manifest file."],["PackageReadError",""]]});

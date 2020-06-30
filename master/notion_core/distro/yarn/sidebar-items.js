@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["cache_is_valid","Check if the cached file is valid. It may have been corrupted or interrupted in the middle of downloading."],["public_yarn_server_root",""]],"struct":[["YarnDistro","A provisioned Yarn distribution."]]});

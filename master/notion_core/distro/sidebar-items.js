@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Fetched","The result of a requested installation."]],"mod":[["error","Provides error types for the installer tools."],["node","Provides the `Installer` type, which represents a provisioned Node installer."],["yarn","Provides the `Installer` type, which represents a provisioned Node installer."]],"trait":[["Distro",""]]});

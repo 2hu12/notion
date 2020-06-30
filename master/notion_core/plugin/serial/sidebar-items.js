@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_Plugin",""],["_IMPL_DESERIALIZE_FOR_ResolveResponse",""],["_IMPL_SERIALIZE_FOR_Plugin",""],["_IMPL_SERIALIZE_FOR_ResolveResponse",""]],"struct":[["BothUrlAndBin",""],["BothUrlAndStream",""],["FalseStream",""],["NeitherUrlNorBin",""],["NeitherUrlNorStream",""],["Plugin",""],["ResolveResponse",""]]});

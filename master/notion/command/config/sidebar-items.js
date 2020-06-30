@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_Args",""],["_IMPL_DESERIALIZE_FOR_Key",""],["_IMPL_DESERIALIZE_FOR_KeyValue",""],["_IMPL_DESERIALIZE_FOR_Nullary",""],["_IMPL_DESERIALIZE_FOR_SubcommandName",""]],"enum":[["Config",""],["Subcommand",""],["SubcommandName",""]],"fn":[["parse_subcommand",""]],"struct":[["Args",""],["Key",""],["KeyValue",""],["Nullary",""]]});

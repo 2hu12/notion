@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["VERSION",""],["_IMPL_DESERIALIZE_FOR_Args",""]],"fn":[["display_error_and_usage",""],["main","The entry point for the `notion` CLI."]],"mod":[["command",""],["error",""]],"struct":[["Args",""],["Notion",""]]});
